@@ -44,3 +44,5 @@ To navigate Nexus Next Generation Market effectively, consider the following saf
 ### Disclaimer:
 
 This guide is exclusively for educational and informational purposes. The information aims to help you enhance your understanding of darknet operations. We do not endorse or promote any illegal activities. Always abide by the relevant laws and regulations in your jurisdiction.
+
+Update: Fixed unreachable url
