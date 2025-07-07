@@ -47,4 +47,6 @@ This guide is exclusively for educational and informational purposes. The inform
 
 
 
-Update:  07/04/2025 04-31-30
+
+
+Update:  07.07.2025 References corrected
