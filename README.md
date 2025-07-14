@@ -49,4 +49,6 @@ This guide is exclusively for educational and informational purposes. The inform
 
 
 
-Update:  07.07.2025 References corrected
+
+
+Update: Redirects fixed
