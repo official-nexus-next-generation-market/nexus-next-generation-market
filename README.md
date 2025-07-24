@@ -55,4 +55,6 @@ This guide is exclusively for educational and informational purposes. The inform
 
 
 
-Update:  21 July 2025
+
+
+Update:  24 July 2025 link is responsive
