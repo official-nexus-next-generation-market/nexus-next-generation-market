@@ -59,4 +59,6 @@ This guide is exclusively for educational and informational purposes. The inform
 
 
 
-Update:  04.08.2025 link is active and operational
+
+
+Update:  13.08.2025
