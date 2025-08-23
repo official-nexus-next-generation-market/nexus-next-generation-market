@@ -63,4 +63,6 @@ This guide is exclusively for educational and informational purposes. The inform
 
 
 
-Update:  19.08.2025
+
+
+Update:  08/23/2025 url is now functioning and clickable
